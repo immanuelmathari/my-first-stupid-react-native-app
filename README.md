@@ -219,3 +219,13 @@ so far
 - we saw how to output list with ScrollView and FlatList and their difference
 - we learned how to use modals.
 - we learned something about buttons in react native
+
+## What we learned
+1. Concepts of React Native
+2. Working with Views and FlexBox (FlexBox is the main layout in react native and understanding how to work with flexbos is beneficial as it assists you to learn how to arrange content within a certain viewport)
+3. Stacking Views ontop of each other
+4. Managing State (Goal State)
+5. Creating Clickable buttons and working with actions is react native eg a user would want to click on something to trigger another action
+6. Creating Modals. (A modal is a view that can appear over other views useful for signup and signIn)
+7. Working with Lists and List Items, Iterating over Lists in an efficient way
+
